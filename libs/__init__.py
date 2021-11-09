@@ -1,0 +1,1 @@
+#__next > div > div.container > div.style_inner__18zZX > div.style_content_wrap__1PzEo > div.style_content__2T20F > ul > div > div > div > div:nth-child(2) > li > div > div.basicList_info_area__17Xyo
